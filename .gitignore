@@ -1,0 +1,5 @@
+*.sass
+/bin
+/config
+/admin
+.DS_Store

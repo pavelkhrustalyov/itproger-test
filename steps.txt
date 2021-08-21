@@ -1,0 +1,10 @@
+1) git init
+2) в .gitignore добавляем
+*.sass
+/bin
+/config
+/admin
+.DS_Store
+3) git add .
+
+4)
